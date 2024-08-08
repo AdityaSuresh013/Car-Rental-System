@@ -40,7 +40,7 @@ A Car Rental Website made using PHP and MySQL for a College Project
 - Clone the project to the root of the XAMPP server.
 - Open the project in XAMPP.
 - Import SQL file from database folder to the XAMPP server.
-- Open Browser and navigate to [localhost](localhost).
+- Open Browser and navigate to [localhost](https://localhost).
 - The project is now running.
 
 ##  Database
